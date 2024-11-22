@@ -5,4 +5,6 @@ Receita de bolo:
 -Leite
 -Manteiga
 -Fermento
--Açuc
+-Açucar
+-Chocolate
+-Bauninlha
